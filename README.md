@@ -4,6 +4,8 @@ Esto es una interfaz web realizada para login, esta desarrollada usando html y c
 
 Desarrollada por:
 
-#Geraldo Ventura 2021-0104
-#Alvaro Joaquin 2021-0194
+Geraldo Ventura 2021-0104
+Alvaro Joaquin 2021-0194
+
+
 
