@@ -1,6 +1,6 @@
 # interfaz-web
 
-Esto es una interfaz web realizada para login, esta desarrollada usando html y css
+Esto es una interfaz web realizada para login, esta desarrollada usando html y css.
 
 Desarrollada por:
 
